@@ -1,0 +1,59 @@
+body {
+
+  padding-top: 70px;
+  position: relative;
+  font-family: nevis;
+}
+nav {
+ font-family: nevis;
+  font-size: large;
+}
+.naaiszero{
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: 0;
+  margin-left: 0;
+}
+.car-img{
+  width:100%;
+}
+p {
+  color  : #8c8c8c;
+}
+.navbar{
+  font-size: 25px;
+}
+.navbar-brand,.navbar-nav li a{
+ line-height: 70px;
+  height: 70px;
+  padding-top: 0;
+  padding-top: 0;
+}
+footer {
+    text-align: center; 
+    color: white; 
+    font-size: large; 
+    padding: 10px;
+    background-color: #222;
+}
+
+div.topding {
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    top: 0px;
+}
+div.pageTitle {
+    background-color: #222;
+    color: white;
+    padding: 10px;
+    font-size: xx-large;
+    text-align: center;
+}
+img.productPic {
+    display: block;
+    margin: auto;
+    clear: both;
+    width: 450px;
+    height: auto;
+}

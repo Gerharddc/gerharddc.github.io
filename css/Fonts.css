@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Glyphicons Halflings";
+    src: url('../fonts/glyphicons-halflings-regular.eot');
+    src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/glyphicons-halflings-regular.svg#nevis') format('svg'),
+    url('../fonts/glyphicons-halflings-regular.woff') format('woff'),
+	url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'),
+    url('../fonts/glyphicons-halflings-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "nevis";
+    src: url('../fonts/361785889-nevis_0.eot');
+    src: url('../fonts/361785889-nevis_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/361785889-nevis_0.svg#nevis') format('svg'),
+    url('../fonts/361785889-nevis_0.woff') format('woff'),
+    url('../fonts/361785889-nevis_0.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
