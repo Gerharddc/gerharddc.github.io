@@ -1,0 +1,58 @@
+{
+	"version":5,
+
+	"attorneyfees":[
+		  {"max":100000, "base":4600, "costperinc":0, "increment":0},
+		  {"max":500000, "base":4600, "costperinc":700, "increment":50000},
+		  {"max":1000000, "base":10200, "costperinc":1400, "increment":100000},
+		  {"max":5000000, "base":17200, "costperinc":700, "increment":100000},
+		  {"max":100000000, "base":45200, "costperinc":350, "increment":100000}
+	],
+
+	"deedofficeduty":[
+		  {"max":100000, "base":35},
+		  {"max":200000, "base":75},
+		  {"max":300000, "base":465},
+		  {"max":600000, "base":580},
+		  {"max":800000, "base":815},
+		  {"max":1000000, "base":930},
+		  {"max":2000000, "base":1050},
+		  {"max":4000000, "base":1275},
+		  {"max":6000000, "base":1750},
+		  {"max":8000000, "base":2100},
+		  {"max":10000000, "base":2455},
+		  {"max":15000000, "base":2920},
+		  {"max":20000000, "base":3505},
+		  {"max":1000000000, "base":4675}
+	],
+
+	"deedofficebond":[
+		  {"max":150000, "base":360},
+		  {"max":300000, "base":400},
+		  {"max":600000, "base":580},
+		  {"max":800000, "base":810},
+		  {"max":1000000, "base":935},
+		  {"max":2000000, "base":1050},
+		  {"max":4000000, "base":1456},
+		  {"max":6000000, "base":1765},
+		  {"max":8000000, "base":2100},
+		  {"max":10000000, "base":2455},
+		  {"max":15000000, "base":2923},
+		  {"max":20000000, "base":3510},
+		  {"max":30000000, "base":4090},
+		  {"max":-1, "base":5845}
+	],
+
+	"transferduty":[
+		  {"max":900000, "base":0, "scale":0},
+		  {"max":1250000, "base":0, "scale":3},
+		  {"max":1750000, "base":10500, "scale":6},
+		  {"max":2250000, "base":40500, "scale":8},
+		  {"max":10000000, "base":80500, "scale":11},
+		  {"max":1000000000, "base":933000, "scale":13}
+	],
+
+	"DeedOfcSearchFee":150,
+	"PostAndPet":600,
+	"Vat":0.14
+}
